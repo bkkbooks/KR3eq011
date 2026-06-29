@@ -1,0 +1,1118 @@
+canonical_identifier: bkk:krp/KR3eq011/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq011/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學源流論
+  identifiers:
+    krp: KR3eq011
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq011.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq011_000-jc.yaml, hash: 'sha256:796c7c731e4abc9ab85ca08fd5d8bf2cf33c30677c779083d8009d29826bcb19'}
+  - {seq: 1, filename: KR3eq011_001-jc.yaml, hash: 'sha256:60f07f9d68d14c680612f0e0895f25c9590afa7f5e5aba23bdde23b6e57bf58f'}
+  - {seq: 3, filename: KR3eq011_003-jc.yaml, hash: 'sha256:a8471ca29a30f6f3f442d44ffca5a700b109e19653d4f591f970ffc325d8ea00'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq011_000-jc.markers.yaml, hash: 'sha256:a87f4406d25e90238202a916dda3f5d542a82f8cc72fe9ed85645bb89d382f94'}
+  - {seq: 1, role: markers, filename: assets/KR3eq011_001-jc.markers.yaml, hash: 'sha256:47399a4f899e6ee95f27c3f2f63f0736366cd0c5bfdd1338227bbca33ba0d19f'}
+  - {seq: 3, role: markers, filename: assets/KR3eq011_003-jc.markers.yaml, hash: 'sha256:31ba6eb8be793d9a791b767c2aaa5cf4ddaf87d245a10649494173d07f3373d0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq011_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 538
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 19923
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 3543
+  label: 經絡臟腑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d2
+    span:
+    - body
+    - 6
+    - 773
+  label: 無氣存亡論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d3
+    span:
+    - body
+    - 773
+    - 1141
+  label: 軀殼經絡臟腑論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d4
+    span:
+    - body
+    - 1141
+    - 1492
+  label: 表裡上下論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d5
+    span:
+    - body
+    - 1492
+    - 1804
+  label: 陰陽升降論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d6
+    span:
+    - body
+    - 1804
+    - 2105
+  label: 治病必分經絡臟腑論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d7
+    span:
+    - body
+    - 2105
+    - 2587
+  label: 治病不必分經絡臟腑論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d8
+    span:
+    - body
+    - 2587
+    - 2956
+  label: 腎藏精論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d9
+    span:
+    - body
+    - 2956
+    - 3210
+  label: 一臟一腑先絕論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d2d10
+    span:
+    - body
+    - 3210
+    - 3543
+  label: 君火相火論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3d3
+    span:
+    - body
+    - 3543
+    - 4844
+  label: 脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d3d2
+    span:
+    - body
+    - 3544
+    - 4122
+  label: 診脈決死生論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d3d3
+    span:
+    - body
+    - 4122
+    - 4484
+  label: 症脈輕重論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d3d4
+    span:
+    - body
+    - 4484
+    - 4844
+  label: 脈症與病相反論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3d4
+    span:
+    - body
+    - 4844
+    - 10424
+  label: 病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d2
+    span:
+    - body
+    - 4845
+    - 5409
+  label: 中風論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d3
+    span:
+    - body
+    - 5409
+    - 5783
+  label: 臌膈論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d4
+    span:
+    - body
+    - 5783
+    - 6037
+  label: 寒熱虛實真假論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d5
+    span:
+    - body
+    - 6037
+    - 6260
+  label: 內傷外感論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d6
+    span:
+    - body
+    - 6260
+    - 6631
+  label: 病情傳變論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d7
+    span:
+    - body
+    - 6631
+    - 6845
+  label: 病同人異論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d8
+    span:
+    - body
+    - 6845
+    - 7116
+  label: 病症不同論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d9
+    span:
+    - body
+    - 7116
+    - 7446
+  label: 病同因別論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d10
+    span:
+    - body
+    - 7446
+    - 7816
+  label: 亡陰亡陽論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d11
+    span:
+    - body
+    - 7816
+    - 8244
+  label: 病有不愈不死雖愈必死論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d12
+    span:
+    - body
+    - 8244
+    - 8546
+  label: 卒死論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d13
+    span:
+    - body
+    - 8546
+    - 8917
+  label: 病有鬼神論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d14
+    span:
+    - body
+    - 8917
+    - 9397
+  label: 腎虛非陰症論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d15
+    span:
+    - body
+    - 9397
+    - 9749
+  label: 吐血不死咳嗽必死論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d16
+    span:
+    - body
+    - 9749
+    - 10219
+  label: 胎產論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d4d17
+    span:
+    - body
+    - 10219
+    - 10424
+  label: 病有不必服藥論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3d5
+    span:
+    - body
+    - 10424
+    - 19923
+  label: 方藥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d2
+    span:
+    - body
+    - 10426
+    - 10734
+  label: 方藥離合論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d3
+    span:
+    - body
+    - 10734
+    - 11302
+  label: 古方加減論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d4
+    span:
+    - body
+    - 11302
+    - 11829
+  label: 方劑古今論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d5
+    span:
+    - body
+    - 11829
+    - 12073
+  label: 單方論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d6
+    span:
+    - body
+    - 12073
+    - 12430
+  label: 禁方論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d7
+    span:
+    - body
+    - 12430
+    - 12830
+  label: 古今方劑大小論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d8
+    span:
+    - body
+    - 12830
+    - 13344
+  label: 藥誤不即死論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d9
+    span:
+    - body
+    - 13344
+    - 13707
+  label: 藥石性同用異論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d10
+    span:
+    - body
+    - 13707
+    - 13997
+  label: 劫劑論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d11
+    span:
+    - body
+    - 13997
+    - 14270
+  label: 製藥論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d12
+    span:
+    - body
+    - 14270
+    - 15026
+  label: 人參論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d13
+    span:
+    - body
+    - 15026
+    - 15471
+  label: 用藥如用兵論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d14
+    span:
+    - body
+    - 15471
+    - 15739
+  label: 執方治病論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d15
+    span:
+    - body
+    - 15739
+    - 16049
+  label: 湯藥不足盡病論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d16
+    span:
+    - body
+    - 16049
+    - 16582
+  label: 本草古今論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d17
+    span:
+    - body
+    - 16582
+    - 16935
+  label: 藥性變遷論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d18
+    span:
+    - body
+    - 16935
+    - 17255
+  label: 藥性專長論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d19
+    span:
+    - body
+    - 17255
+    - 17610
+  label: 煎藥法論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d20
+    span:
+    - body
+    - 17610
+    - 17878
+  label: 服藥法論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d21
+    span:
+    - body
+    - 17878
+    - 18438
+  label: 醫必備藥論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d22
+    span:
+    - body
+    - 18438
+    - 18697
+  label: 乩方論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d23
+    span:
+    - body
+    - 18697
+    - 19180
+  label: 熱藥誤人最烈論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d24
+    span:
+    - body
+    - 19180
+    - 19447
+  label: 薄貼論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq011_jc_001-d3.d5d25
+    span:
+    - body
+    - 19447
+    - 19923
+  label: 貌似古方欺人論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 20821
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 10718
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d2
+    span:
+    - body
+    - 4
+    - 734
+  label: 司天運氣論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d3
+    span:
+    - body
+    - 734
+    - 1221
+  label: 醫道通治道論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d4
+    span:
+    - body
+    - 1221
+    - 1543
+  label: 五方異治論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d5
+    span:
+    - body
+    - 1543
+    - 1898
+  label: 病隨國運論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d6
+    span:
+    - body
+    - 1898
+    - 3058
+  label: 針灸失傳論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d7
+    span:
+    - body
+    - 3058
+    - 3375
+  label: 水病針法論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d8
+    span:
+    - body
+    - 3375
+    - 3602
+  label: 出奇制病論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d9
+    span:
+    - body
+    - 3602
+    - 3926
+  label: 治病緩急論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d10
+    span:
+    - body
+    - 3926
+    - 4189
+  label: 治病分合論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d11
+    span:
+    - body
+    - 4189
+    - 4722
+  label: 發汗不用燥藥論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d12
+    span:
+    - body
+    - 4722
+    - 5158
+  label: 病不可輕汗論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d13
+    span:
+    - body
+    - 5158
+    - 5528
+  label: 傷風難治論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d14
+    span:
+    - body
+    - 5528
+    - 6047
+  label: 攻補寒熱同用論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d15
+    span:
+    - body
+    - 6047
+    - 6568
+  label: 臨病人問所便論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d16
+    span:
+    - body
+    - 6568
+    - 6943
+  label: 治病不必顧忌論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d17
+    span:
+    - body
+    - 6943
+    - 7310
+  label: 病深非淺藥能治論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d18
+    span:
+    - body
+    - 7310
+    - 7832
+  label: 愈病有日期論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d19
+    span:
+    - body
+    - 7832
+    - 8306
+  label: 治人必考其驗否論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d20
+    span:
+    - body
+    - 8306
+    - 8646
+  label: 防微論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d21
+    span:
+    - body
+    - 8646
+    - 9011
+  label: 知病必先知症論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d22
+    span:
+    - body
+    - 9011
+    - 9377
+  label: 補藥可通融論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d23
+    span:
+    - body
+    - 9377
+    - 9856
+  label: 輕藥愈病論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d24
+    span:
+    - body
+    - 9856
+    - 10406
+  label: 腹內癰論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d2d25
+    span:
+    - body
+    - 10406
+    - 10718
+  label: 圍藥論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4d3
+    span:
+    - body
+    - 10718
+    - 15737
+  label: 書論附科
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d2
+    span:
+    - body
+    - 10722
+    - 11017
+  label: 難經論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d3
+    span:
+    - body
+    - 11017
+    - 11387
+  label: 傷寒論論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d4
+    span:
+    - body
+    - 11387
+    - 11625
+  label: 金匱論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d5
+    span:
+    - body
+    - 11625
+    - 12078
+  label: 脈經論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d6
+    span:
+    - body
+    - 12078
+    - 12586
+  label: 千金方外臺論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d7
+    span:
+    - body
+    - 12586
+    - 12844
+  label: 活人書論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d8
+    span:
+    - body
+    - 12844
+    - 13111
+  label: 太素脈論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d9
+    span:
+    - body
+    - 13111
+    - 13562
+  label: 婦科論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d10
+    span:
+    - body
+    - 13562
+    - 14279
+  label: 痘科論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d11
+    span:
+    - body
+    - 14279
+    - 14753
+  label: 幼科論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d12
+    span:
+    - body
+    - 14753
+    - 15310
+  label: 瘍科論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d13
+    span:
+    - body
+    - 15310
+    - 15505
+  label: 祝由科論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d3d14
+    span:
+    - body
+    - 15505
+    - 15737
+  label: 獸醫論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4d4
+    span:
+    - body
+    - 15737
+    - 20821
+  label: 古今
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d2
+    span:
+    - body
+    - 15739
+    - 16110
+  label: 四大家論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d3
+    span:
+    - body
+    - 16110
+    - 16480
+  label: 醫家論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d4
+    span:
+    - body
+    - 16480
+    - 17094
+  label: 醫學淵源論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d5
+    span:
+    - body
+    - 17094
+    - 17568
+  label: 考試醫學論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d6
+    span:
+    - body
+    - 17568
+    - 17891
+  label: 醫非人人可學論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d7
+    span:
+    - body
+    - 17891
+    - 18362
+  label: 名醫不可為論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d8
+    span:
+    - body
+    - 18362
+    - 18917
+  label: 邪說陷溺論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d9
+    span:
+    - body
+    - 18917
+    - 19461
+  label: 涉獵醫書誤人論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d10
+    span:
+    - body
+    - 19461
+    - 20219
+  label: 病家論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq011_jc_003-d4.d4d11
+    span:
+    - body
+    - 20219
+    - 20821
+  label: 醫者誤人無罪論
+  type: section
+  level: 3
+hash: sha256:943538b75b69d776b961cbb12266e5c01b26080fa966658aa401a125c4dfa912
