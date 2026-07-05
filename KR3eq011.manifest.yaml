@@ -18,11 +18,12 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR3eq011_000.yaml, hash: 'sha256:796c7c731e4abc9ab85ca08fd5d8bf2cf33c30677c779083d8009d29826bcb19'}
-  - {seq: 1, filename: KR3eq011_001.yaml, hash: 'sha256:9eb2a6d87e5907f55739f6cf973ca62080f805ac7eaf6a89e16c5bc710238c95'}
-  - {seq: 3, filename: KR3eq011_003.yaml, hash: 'sha256:d4a5f3d652090034af9ca0d7bf2f28d3aa5c40ffdfb3a75ae306b8c4f441bcfb'}
+  - {seq: 1, filename: KR3eq011_001.yaml, hash: 'sha256:60f07f9d68d14c680612f0e0895f25c9590afa7f5e5aba23bdde23b6e57bf58f'}
+  - {seq: 3, filename: KR3eq011_003.yaml, hash: 'sha256:a8471ca29a30f6f3f442d44ffca5a700b109e19653d4f591f970ffc325d8ea00'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eq011_001.markers.yaml, hash: 'sha256:4ae19ca73fc593e7f635fe6341948e43ec462f8cd29aaa0daa83a9407dd431b1'}
-  - {seq: 3, role: markers, filename: assets/KR3eq011_003.markers.yaml, hash: 'sha256:ed9d36d10ce526ba6750086f3f2714c236c7bb07d49dcbfbc2a82689eaeecbbe'}
+  - {seq: 0, role: markers, filename: assets/KR3eq011_000.markers.yaml, hash: 'sha256:6ff2f68c70cc998e2242410a7b1539dece5d624097706822fea60c34cedc395e'}
+  - {seq: 1, role: markers, filename: assets/KR3eq011_001.markers.yaml, hash: 'sha256:15772305473e9640f2067db5ae1faf684cbc70fea19a06037cb565371bd303b7'}
+  - {seq: 3, role: markers, filename: assets/KR3eq011_003.markers.yaml, hash: 'sha256:c08d6dc5430f36502463b83079cb72054e6c4c15f07d3285c366a1ab62898915'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1114,7 +1115,4 @@ table_of_contents:
   label: 醫者誤人無罪論
   type: section
   level: 3
-hash: sha256:d9e01d28432245448c04f781d7ec5b9b6f446d545053f9805b5357fdbb84faf5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:118586dbe79477bae2be400363030c70a5aa45fb3d7d82eade04e902a91ad10a
